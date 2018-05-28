@@ -1,0 +1,51 @@
+{
+	"aaa": "aaaa",
+	"ccc": 99.99,
+	"bbb": 100,
+	"obj": {
+		"ccc": "cccc",
+		"eee": {
+			"fff2": false,
+			"fff1": true,
+			"ggg": [
+				"a1",
+				"a2"
+			],
+			"obj": {
+				"kkk": "kkkk"
+			},
+			"hhh": [
+				{
+					"ii": "11.0"
+				},
+				{
+					"ii": "22.0"
+				},
+				{
+					"ii": "33.0",
+					"jj": "j3"
+				}
+			]
+		},
+		"ddd": {
+			"dd1": "dd11"
+		}
+	},
+	"fff": {
+	},
+	"list2": [
+		{
+			"aa": "aaa",
+			"bb": "bbb"
+		},
+		{
+			"aa": "aaa2",
+			"bb": "bbb2"
+		}
+	],
+	"list": [
+		"aa",
+		"bb",
+		"cc"
+	]
+}

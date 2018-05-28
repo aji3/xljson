@@ -1,0 +1,30 @@
+{
+  "aaa": "aaaa",
+  "bbb": 100,
+  "ccc": 99.99,
+  "obj": {
+    "ccc": "cccc",
+    "ddd": {
+      "dd1": "dd11"
+    },
+    "eee": {
+        "fff1": true,
+        "fff2": false,
+        "fff3": null,
+        "ggg": ["a1", "a2"],
+        "hhh": [
+            {"ii": "11"}, {"ii": "22"}, {"ii": "33", "jj": "j3"}
+        ],
+        "obj": {
+            "kkk": "kkkk"
+        }
+    }
+  },
+  "fff": {},
+  "list": [
+    "aa", "bb", "cc"
+  ],
+  "list2": [
+      {"aa":"aaa", "bb":"bbb"},{"aa":"aaa2", "bb":"bbb2"}
+  ]
+}
